@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 144" width="192" height="144">
+	<title>stats</title>
+	<defs>
+		<image width="48" height="36" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAkCAYAAADPRbkKAAAEmUlEQVRYR+1Za2gcVRT+zmweW4ORJFZtGhVaKRbR1kqpoFCLGLFIESFkZ7Vq485qfBKwJTP1sdU2s60WgtEKM2OaiN2buqUVFSpNsYpVq+CjhYhB/WE1FVrFtDY2u9nMkbvZjUl0H02J20Dm19w555453/nOuffOGQIAv2Y8yeB1AKrleBpcx8B4UThmK6ma8TjALwM4wcDnAA2f3wDYQ8AyALMBeoJUTf8ZQHFxCa5541Xz9/Pb+RHv7ntUrxqKowfAkATAALqEbarTwfm0j6qmCwC+EQCMTuGYD/zfAEKhkNJzfOCSsr/KBjs6Qv3p99c1Nc3CmQsqK9wTxy3LGvovv9SA3gHC/QUB4GtYV00eTwhAPYDylIPfEXGEXboDhBsBEIA4g/YS41nhtBwZCyQjAJ+mr1aI5mdkg92DETu8f7JsqQHjOhDvA3ApgB4GDoFQQYxVAIpSdrvB9BMTLyTgJgAxYvgjjrl7NIUyMCAZGQAwK5ODDHzSZZs3TwaATI2i095vAdSAERSO2QGA79H0O13gXQCDALwAnhO2+bx8h6rpywHaBXCZS55rd1obf0w+z5RCvjXrL1eKuCojAIr9Iqytv00GgD+oNzJjG8CGsMPmmII8TMBVw8D1CvE7YKpRvKXVO9pCp1L71O0Mfh+E7cIyG7ICmIxj+c5Rteb3AKpNFJdURrdtOC3npeqhL+2cP9j8GDO1wVVWidc3SVaSl6rpR8CYLRxzTlYAasC4jYA5Xjexp719y5/JMWGuy+6Zq2u80VAo5Obr8EQ9VdO/BqFcWOZojdVrzUsV0BcMrO2yzZd8Dxm3ksv7ifBIxDJfS9vwBfS3iFAnbFORaZcphWQNyDwsIdCaiN3SmR4nDTEtmrganA0YVdM/BLA40f9DVTQaTe749Zq+QAF6QWgVltnkCxp+Yt4BZr9wwnKtH2EgYHwE4iXCNi/MykB90FhSxFwd7y/ZF41uiMuxAr4CLp8STviDs3F4oq5f019g4GkG391lh/dIudwLevtix0CIl8ZLF8SKY28DqOWEcmXX9k3ylAB/Q/M89lAvgbsjdnhlwWqg7uH1c4uG3e/BOOlxPbe82b6xNxXdtSDeAuAbyRCAXcI265LONzZXcIK6AdwAplrhtMj7zKvQuUQ4n7lqwLgXxJ0kl0yG44I/BZSLibg1vQ8waLNC7pfMtBCMRhAuA/NW4YSf+ielCrgT+wP6SlbQBsa88aAlGFoqD5djnvcT8TMRK/zKWN2CHiVGc//X2DIM03yGOzSs8GdRa/PRugdDlR5lcDkRlRNz3x/egY/3trXF/rWiFfIslE+q5dIpOAO5HMwlnwGQK0JTLZ9hYKojnMv+DAO5IjTV8hkGpjrCuexnZCDVJ8o2/7CwzcVpA9kUmXmFlBPRgawOpdo6qqbL0+iibLrCNmW3IvNpdAbAmPAVhoGgflc2Cgl0MmK1HBj9UsuaG/GDI+KSrG0YF3R0p9XylT9orGDwRVlTyDLlF1vhPmhyFWe+8vFFPM2bu9O5vZ4Y94MDxIeYlUn3ffKl/1z0iFwFTLL5O/KDQxqbzr+Y/gaP+dUWiSzC1QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="stats">
+		<g id="base">
+			<g id="icons">
+				<use id="Vector Smart Object" href="#img1" transform="matrix(4,0,0,4,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>

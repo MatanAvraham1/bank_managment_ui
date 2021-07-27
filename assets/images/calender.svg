@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 168" width="192" height="168">
+	<title>stats</title>
+	<defs>
+		<image width="48" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAqCAYAAAD1T9h6AAADcklEQVRoQ+2ZXWgcVRTHf2cymw8JiCjSEkFBKH2oiJZWilj6og/iByJrMqsFMTshNVAJWNlJhGyL7S5WaGtplexiFc2ONZRWKb73Q/tFaR98kL6YB0v71BYppOnuzpGZJKVu87HZ7iyrzn1a7j3nf///87+XnZkjVDF6bGevQB9ows1lD1WRUnOIZaeOgqw31HhpLL/99GJAsliAv27ZzgTwOMIBdzTzXjU5tcZYtqMzuSNuLrNtMZx7BHTbzgpRfcYQo2M2WVU/Q3hYkR8NOLIY6P2sK3ogyFfJi/DLLJan3qSKXDiYy1y6G/+OgG47taYF2aewZj4CAucWWr8f4nPkngGeq5z3OZTRgYO57Dl/LRCQSDovq3AYaF2IRDMImOF3W5Q3CvnMzxLvH+4yy97vQCfgAfsQ7wfTi10umqXgPEpZTgJdohQ8U4frXOl/wElZ/piZ+FRb9Av/d6xkSskodqHGW8AAYAA3Sy3GSrHs1G6QD6bt0HcKuexYJUHLdi4CTyO60x3NfhSmAMt2bgAPgg64uez+yr0SduptRb6bntc9YtmOr/gJ4ISby6yfi5zV56xE5UWjvfWbsb3pv8IUkOgdXusZ5WfLN9q+Gh/fentOPrZzHHgBmPAFlANLVLa7+R0fh0muXthWcugTJDjKni9g+pyLbC2M7kjXa5MwcRJ9Q2lVHQl4RwLCLPU82DU5YPUOv4p4TzaKr4Fxer5noZoE9NhDRwR9vVECFrqTkYBGuBA5UFnlf/0d6O4dWiXiPdKI4xPsYTLx/ZdZ/0XqnlHTJW4Y8So2igRUUaRQQyIHQi1vFeD/TwcSSadXRZ+qokAVIXLYzWWOLT1v/oyaHKj5j0wZdPOZ3ZGAuyoQObCk4xAdoTo9C23s//DRIuYDS6o+0BJrv1bvb0k13YGlEg8zPhIQZnWrwf7POTAJtIvyeSGfCb5SN/tIJJ09KmwGbomVdH5FWAf8Weq8tWJ81y5fUNOO+OBgh3mz3W8zPYZySnrsVL8gQSMB5FCpc3Jjs4qYJt/xLeibPltFN8mGdNpcfnnKb6atDTQoV9WQnwy40kw2eLBcPH0NYdkMr7NXutqeD3pk8fe3LDOL5lFgdTORXoDL+VKs9Mr4/p1X73Qp4/GR1thDU32q8i6wCmhrMjFTwG8i+nXxetvobPfmb++xU2nhNSoWAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="stats">
+		<g id="base">
+			<g id="icons">
+				<use id="calendar icon copy" href="#img1" transform="matrix(4,0,0,4,0,0)"/>
+			</g>
+		</g>
+	</g>
+</svg>

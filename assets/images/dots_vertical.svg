@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 104" width="24" height="104">
+	<title>Group 5</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #b5bfcd } 
+	</style>
+	<g id="Group 5">
+		<g id="stats">
+			<g id="Revenue">
+				<g id="Title &amp; Text &amp; Icon">
+					<path id="Ellipse 4 copy 2" class="shp0" d="M12 23.66C5.36 23.66 0 18.37 0 11.83C0 5.29 5.36 0 12 0C18.64 0 24 5.29 24 11.83C24 18.37 18.64 23.66 12 23.66ZM12 61.49C5.36 61.49 0 56.2 0 49.66C0 43.12 5.36 37.83 12 37.83C18.64 37.83 24 43.12 24 49.66C24 56.2 18.64 61.49 12 61.49ZM12 104C5.36 104 0 98.71 0 92.17C0 85.63 5.36 80.34 12 80.34C18.64 80.34 24 85.63 24 92.17C24 98.71 18.64 104 12 104Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
