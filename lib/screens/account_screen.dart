@@ -112,48 +112,30 @@ class _AccountScreenState extends State<AccountScreen> {
         ),
         SizedBox(height: 29.h),
         Divider(),
-        ListTile(
-          title: Text("MasterCard",
-              style: GoogleFonts.cuprum(
-                  fontSize: 22.sp, color: Color(0xffb5bfcd))),
-          subtitle: Text("HDFC Bank",
-              style: GoogleFonts.cuprum(
-                  fontSize: 18.sp, color: Color(0xffb5bfcd))),
-          leading: SvgPicture.asset("assets/images/mastercard.svg",
-              height: 43.h, width: 72.w),
-          trailing: Text("\$ 11,000",
-              style: GoogleFonts.cuprum(
-                  fontSize: 30.sp, color: Color(0xffb5bfcd))),
-        ),
+        buildCardTile("MasterCard", "HDFC", "assets/images/mastercard.svg", "11,000", 43),
         Divider(),
-        ListTile(
-          title: Text("Visa Card",
-              style: GoogleFonts.cuprum(
-                  fontSize: 22.sp, color: Color(0xffb5bfcd))),
-          subtitle: Text("HDFC Bank",
-              style: GoogleFonts.cuprum(
-                  fontSize: 18.sp, color: Color(0xffb5bfcd))),
-          leading: SvgPicture.asset("assets/images/visa.svg",
-              height: 21.h, width: 71.w),
-          trailing: Text("\$ 1,55,000",
-              style: GoogleFonts.cuprum(
-                  fontSize: 30.sp, color: Color(0xffb5bfcd))),
-        ),
-        ListTile(
-          title: Text("Maestro Card",
-              style: GoogleFonts.cuprum(
-                  fontSize: 22.sp, color: Color(0xffb5bfcd))),
-          subtitle: Text("SBI Bank",
-              style: GoogleFonts.cuprum(
-                  fontSize: 18.sp, color: Color(0xffb5bfcd))),
-          leading: SvgPicture.asset("assets/images/maestro.svg",
-              height: 45.h, width: 72.w),
-          trailing: Text("\$ -1,000",
-              style: GoogleFonts.cuprum(
-                  fontSize: 30.sp, color: Color(0xffb5bfcd))),
-        )
+        buildCardTile("Visa Card", "HDFC", "assets/images/visa.svg", "1,55,000", 21),
+        buildCardTile("Maestro Card", "SBI", "assets/images/maestro.svg", "-1,000", 45),
       ],
     );
+  }
+
+  ListTile buildCardTile(String cardName, String cardBank, String imagePath, String dollars, int iconSize) {
+
+return ListTile(
+        
+        title: Text(cardName,
+            style: GoogleFonts.cuprum(
+                fontSize: 28.sp, color: Color(0xffb5bfcd))),
+        subtitle: Text("$cardBank Bank",
+            style: GoogleFonts.cuprum(
+                fontSize: 24.sp, color: Color(0xffb5bfcd))),
+        leading: SvgPicture.asset(imagePath,
+            height: iconSize.h, width: iconSize.w),
+        trailing: Text("\$ $dollars",
+            style: GoogleFonts.cuprum(
+                fontSize: 30.sp, color: Color(0xffb5bfcd))),
+      );
   }
 
   Container buildActionTile(String title, String iconAssetUrl, Size iconSize,
